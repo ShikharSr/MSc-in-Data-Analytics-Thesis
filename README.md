@@ -51,7 +51,7 @@ important steps. Image pre-processing for this project works in a loop as also m
 in the CRISP-DM methodology. There are a series of operations which were performed
 on the images before feeding them in our CNN models. As this project uses CNN models
 for classifying the blood smear images in two classes i.e. Infected, Uninfected and also
-uses Faster RCNN for detecting infected blood cells in the images, so two dierent sets
+uses Faster RCNN for detecting infected blood cells in the images, so two different sets
 of image pre-processing were required to do, one for the purpose of classifying images
 and another for detecting infected blood cells in images. There are few pre-processing
 steps which are common in both types of pre-processing done like applying gaussian blur.
